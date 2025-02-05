@@ -1,0 +1,1 @@
+{{$node["Webhook"].json["file_content"]}}
